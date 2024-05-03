@@ -1,5 +1,8 @@
 # AirBnB Clone - The Console
+<img src="https://s3.amazonaws.com/intranet-projects-files/concepts/74/hbnb_step5.png">
 The console is the first segment of the AirBnB project at Holberton School that will collectively cover fundamental concepts of higher level programming. The goal of AirBnB project is to eventually deploy our server a simple copy of the AirBnB Website(HBnB). A command interpreter is created in this segment to manage objects for the AirBnB(HBnB) website.
+
+<img src="https://s3.amazonaws.com/alx-intranet.hbtn.io/uploads/medias/2020/9/62fbb2d674fca4a843458e61cf3b05ee9f68ad04.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUSBVO6H7D%2F20240503%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20240503T165405Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4f3b9426136682670a159223034fdd12731f6147fdb684f8a9d8acc4d0b95cb3">
 
 #### Functionalities of this command interpreter:
 * Create a new object (ex: a new User or a new Place)
