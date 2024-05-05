@@ -19,7 +19,7 @@ def teardown(Exception):
     storage.close()
 
 
-@app.route("/0-hbnb", strict_slashes=False, methods=["GET", "POST"])
+@app.route("/1-hbnb", strict_slashes=False, methods=["GET", "POST"])
 def last():
     """
 
@@ -29,7 +29,7 @@ def last():
         from DBStorage and sorted by name (A->Z)
     """
     return render_template(
-        "0-hbnb.html",
+        "1-hbnb.html",
         states=storage.all(State),
         amenities=storage.all(Amenity),
         places=storage.all(Place),
